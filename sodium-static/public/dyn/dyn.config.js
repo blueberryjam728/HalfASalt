@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3,
   bare: {
     version: 3,
-    path: "http://berrybare.us.to"
+    path: "berrybare.us.to"
   },
   tab: {
     title: 'Service',
