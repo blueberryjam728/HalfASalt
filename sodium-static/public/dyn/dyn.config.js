@@ -5,7 +5,7 @@ self.__dynamic$config = {
   logLevel: 3,
   bare: {
     version: 3,
-    path: "https://tear.offyour.skin/bare/"
+    path: "https://basicbare.onrender.com/"
   },
   tab: {
     title: 'Service',

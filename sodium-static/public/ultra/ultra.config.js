@@ -11,7 +11,8 @@ self.__uv$config = {
      * @type {string}
      */
     bare: [
-        "https://tear.offyour.skin/bare/",
+	"https://basicbare.onrender.com/"
+        //"https://tear.offyour.skin/bare/"
 	//"berrybare.us.to"
         // Using a backend? Use this instead of Tomp.app:
         // "/bare1/",
